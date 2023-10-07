@@ -1,4 +1,4 @@
-package com.jts.subscription.configserver;
+package com.ts.subscription.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
